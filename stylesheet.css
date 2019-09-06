@@ -1,0 +1,9 @@
+#bio img {
+    float: left;
+    width: 50%;
+    margin: 10px;
+}
+
+#merchandise{
+    clear:both
+}
